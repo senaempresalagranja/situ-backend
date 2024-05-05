@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "aprendices",
+  "info": {
+    "singularName": "aprendiz",
+    "pluralName": "aprendices",
+    "displayName": "Aprendiz"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Nombres": {
+      "type": "text"
+    },
+    "Apellidos": {
+      "type": "string"
+    }
+  }
+}
